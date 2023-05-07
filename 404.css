@@ -1,0 +1,61 @@
+/* Base styles */
+
+:root {
+  --background: #151515;
+  --subbg: #282828;
+  --fonts: #ffffff;
+  --custom: #15cd94;
+  --sub: #7D7D7D;
+  --custfont: 'Romanesco', cursive;
+}
+
+html,
+body {
+  height: 100%;
+  margin: 0;
+  padding: 0;
+    font-family: 'Poppins', sans-serif;
+}
+
+/* Error page styles */
+.error {
+  background-color: var(--background);
+  height: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.container {
+  max-width: 800px;
+  text-align: center;
+  margin: 0 auto;
+}
+
+.error h1 {
+  font-size: 8rem;
+  margin: 0;
+  color: var(--fonts);
+  font-weight:600;
+}
+
+.error p {
+  font-size: 2rem;
+  margin: 0;
+  color: var(--fonts);
+  margin-bottom: 2rem;
+}
+
+.btn {
+  background-color: var(--fonts);
+  color: var(--subbg);
+  padding: 1rem 2rem;
+  text-decoration: none;
+  border-radius: 5px;
+  transition: background-color 0.3s ease;
+}
+
+.btn:hover {
+  background-color: var(--subbg);
+  color: var--fontss;;
+}
