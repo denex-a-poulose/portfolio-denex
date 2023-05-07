@@ -8,7 +8,7 @@
 
 - Framework
 - Technologies used
-- [License](portfolio-denex/LICENSE.md)
+- [License](LICENSE.md)
 
 
 
