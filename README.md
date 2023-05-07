@@ -8,7 +8,7 @@
 
 - Framework
 - Technologies used
-- [Licence](#)
+- [Licence](LICENSE.md)
 
 
 
