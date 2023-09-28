@@ -23,5 +23,5 @@ Bootstrap is a free, open source front-end development framework for the creatio
 
 ## Licence
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+This project is licensed under the MIT License - see the [LICENSE.md](https://github.com/denex-a-poulose/portfolio-denex/blob/main/LICENSE) file for details
 
